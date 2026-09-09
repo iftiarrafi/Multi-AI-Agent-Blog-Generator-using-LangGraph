@@ -1,6 +1,6 @@
 # Multi-Agent Blog Generator
 
-A LangGraph-based blog workflow with three agents and human review checkpoints.
+A LangGraph-based blog workflow with three agents with Human-In-The-Loop implemenetation for human review checkpoints.
 
 ## Workflow
 
