@@ -2,6 +2,20 @@
 
 A LangGraph-based blog workflow with three agents with Human-In-The-Loop implemenetation for human review checkpoints.
 
+<!-- Visuals -->
+
+<div align="center"> <img src="./assests/intro1.png" alt="Intro" width="400"/> <img src="./assests/intro2.png" alt="Intro" width="400"/> </div>
+
+🎥 Project Demo
+
+<div align="center">
+
+<a href="https://youtu.be/uS5QspuW0lY"> <img src="https://img.youtube.com/vi/uS5QspuW0lY/maxresdefault.jpg" alt="Multi Agent Blog Generator Demo" width="800" /> </a>
+
+<p> <strong>▶️ Click the image above to watch the full demo</strong> </p>
+
+</div>
+
 ## Workflow
 
 ![Multi-agent blog workflow](the_multi_agent_workflow.png)
